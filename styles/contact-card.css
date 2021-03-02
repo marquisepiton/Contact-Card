@@ -1,0 +1,32 @@
+.pic{
+
+
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+
+}
+.name{
+    margin-bottom: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.icons{
+    margin-bottom: 30px;
+
+} 
+
+body{
+
+    align-content: center;
+    text-align: center;
+    
+    background-image:url('/Images/Abstract-Neon-Light-Colors-Gradation-Blur-iphone-wallpaper-ilikewallpaper_com.jpg');
+    
+}
+hr{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
